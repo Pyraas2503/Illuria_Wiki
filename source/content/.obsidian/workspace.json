@@ -39,12 +39,14 @@
             "id": "0d09fbc9976e1888",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "NPC/Götter/Götter Illurias.png"
+                "file": "NPC/Götter/Pariah.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Götter Illurias"
+              "icon": "lucide-file",
+              "title": "Pariah"
             }
           }
         ],
@@ -204,8 +206,9 @@
   },
   "active": "0d09fbc9976e1888",
   "lastOpenFiles": [
+    "NPC/Götter/Vrada/_Info.md",
+    "NPC/Götter/Götter_Illurias.png",
     "NPC/Götter/Pariah.md",
-    "NPC/Götter/Götter Illurias.png",
     "NPC/Götter/Vrada/Vicera.md",
     "NPC/Götter/Vrada/Valerias.md",
     "NPC/Götter/Vrada/Tevris.md",
@@ -219,7 +222,6 @@
     "NPC/Götter/Vrada/Pesmuth.md",
     "Orte/Seelenobelisk.md",
     "index.md",
-    "NPC/Götter/Vrada/_Info.md",
     "NPC/Götter/Vrada.md",
     "NPC/Götter/Vrada",
     "NPC/Götter",
