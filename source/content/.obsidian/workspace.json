@@ -39,14 +39,12 @@
             "id": "0d09fbc9976e1888",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NPC/Götter/Pariah.md",
-                "mode": "source",
-                "source": false
+                "file": "NPC/Götter/Götter Illurias.png"
               },
-              "icon": "lucide-file",
-              "title": "Pariah"
+              "icon": "lucide-image",
+              "title": "Götter Illurias"
             }
           }
         ],
@@ -206,8 +204,8 @@
   },
   "active": "0d09fbc9976e1888",
   "lastOpenFiles": [
-    "NPC/Götter/Götter Illurias.png",
     "NPC/Götter/Pariah.md",
+    "NPC/Götter/Götter Illurias.png",
     "NPC/Götter/Vrada/Vicera.md",
     "NPC/Götter/Vrada/Valerias.md",
     "NPC/Götter/Vrada/Tevris.md",
