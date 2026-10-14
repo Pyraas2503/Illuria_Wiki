@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Wiki/NPC/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Test"
             }
           }
         ],
@@ -192,9 +192,10 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Wiki/Some note.md",
     "index.md",
+    "Wiki/NPC/Test.md",
     "Wiki/index.md",
+    "Wiki/Some note.md",
     "Wiki/NPC/Agasha/_Info.md",
     "Wiki/NPC/Michael Virican.md",
     "Wiki/NPC/Agasha/Vurukar.md",
