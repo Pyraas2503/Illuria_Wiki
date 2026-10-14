@@ -4,4 +4,3 @@
 
 
 
-![[Götter_Illurias.png]]
