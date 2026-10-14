@@ -1,0 +1,7 @@
+- Grüner Agasha, kann ihr Aussehen anpassen
+- Kann andere mit ihrer Magie kontrollieren und Erinnerungen manipulieren
+- Ist auf der Suche nach einem passenden Gefäß für die [[Verschlinger]]
+	- Erster Versuch war ihr Agasha Brurder [[Vurukar]] 
+	- Als zweites wurde Maalus auserwählt
+		- Maalus Erinnerung an das erste Zusammentreffen wurde manipuliert
+- Dient unter Sesorath

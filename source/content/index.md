@@ -1,7 +1,3 @@
 ---
-title: My GitHub Pages Notebook!
+title: Illuria Wiki
 ---
-
-Hello world!
-
-Write some words here!

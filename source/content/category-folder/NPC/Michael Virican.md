@@ -1,0 +1,8 @@
+- geheim Orga: verborgene Flamme >> Fortbestehen der Welt (Zenarier, Horde Aschefelder)
+- vor 15 Jahren in Herzogtümern/Annistral aktiv gegen Teufelskulten vorgegangen
+- hat uns des Öfteren aus der Patsche geholfen
+- hat Axos und Nazir quasi auf die selbe Reise geschickt
+- existiert als "Michel" seit Anbeginn des Zeitalters
+- affin mit Divination Magic, weil er KRASS ist (was passiert da?)
+- meidet den Kampf so häufig wie nur geht
+- aktuell im Amethyst Kaiserreich aka Taleris, bekämpft Zavorai
