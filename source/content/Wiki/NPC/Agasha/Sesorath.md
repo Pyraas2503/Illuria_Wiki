@@ -1,4 +1,3 @@
 - Ist der blaue Agasha
 - lebt im Turm (Seelenobelisk) in Buraja
 - versucht Wissen anzuhäufen und gibt dafür Kräfte als Versprechen ab
-- 
