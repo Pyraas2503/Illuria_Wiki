@@ -1,4 +1,4 @@
-- Der weiße Agasha
+- Der weiße Agashar
 - Hat einen Teil der Verschlinger Bestie in sich
 	- Vmtl. den Teil des Bären
 - Eignet sich aufgrund seines Fluches von Tiamat nicht besonders gut als Träger der Bestie, da er nur chillt
