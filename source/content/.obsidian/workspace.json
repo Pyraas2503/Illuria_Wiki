@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orte/Seelenobelisk.md",
+                "file": "NPC/Götter/Pariah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seelenobelisk"
+              "title": "Pariah"
             }
           }
         ],
@@ -208,6 +208,7 @@
   "lastOpenFiles": [
     "NPC/Götter/Vrada/_Info.md",
     "NPC/Götter/Pariah.md",
+    "Orte/Seelenobelisk.md",
     "NPC/Michael Virican.md",
     "Vrada.md",
     "NPC/Götter/Vrada/Valerias.md",
@@ -222,7 +223,6 @@
     "NPC/Agashar/Atraxa.md",
     "NPC/Agashar/_Info.md",
     "NPC/Agasha/Unbenannt.md",
-    "Orte/Seelenobelisk.md",
     "index.md",
     "NPC/Götter/Vrada.md",
     "NPC/Götter/Vrada",
