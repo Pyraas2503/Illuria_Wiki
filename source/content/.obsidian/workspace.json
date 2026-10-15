@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Götter/Pariah.md",
+                "file": "Orte/Seelenobelisk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pariah"
+              "title": "Seelenobelisk"
             }
           }
         ],
@@ -206,20 +206,22 @@
   },
   "active": "0d09fbc9976e1888",
   "lastOpenFiles": [
-    "NPC/Götter/Vrada/Vicera.md",
-    "NPC/Götter/Pariah.md",
-    "NPC/Götter/Götter_Illurias.png",
     "NPC/Götter/Vrada/_Info.md",
+    "NPC/Götter/Pariah.md",
+    "NPC/Michael Virican.md",
+    "Vrada.md",
     "NPC/Götter/Vrada/Valerias.md",
-    "NPC/Götter/Vrada/Tevris.md",
+    "NPC/Götter/Vrada/Pesmuth.md",
     "NPC/Götter/Vrada/Shakuru.md",
+    "NPC/Götter/Vrada/Vicera.md",
+    "NPC/Götter/Götter_Illurias.png",
+    "NPC/Götter/Vrada/Tevris.md",
     "NPC/Agashar/Vurukar.md",
     "NPC/Agashar/Sesorath.md",
     "NPC/Agashar/Satrex.md",
     "NPC/Agashar/Atraxa.md",
     "NPC/Agashar/_Info.md",
     "NPC/Agasha/Unbenannt.md",
-    "NPC/Götter/Vrada/Pesmuth.md",
     "Orte/Seelenobelisk.md",
     "index.md",
     "NPC/Götter/Vrada.md",
@@ -229,7 +231,6 @@
     "Wiki/NPC/Test.md",
     "Wiki/index.md",
     "Wiki/Some note.md",
-    "NPC/Michael Virican.md",
     "NPC/Agashar",
     "NPC",
     "Wiki"
