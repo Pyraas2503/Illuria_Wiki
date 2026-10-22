@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Pariah"
             }
-          },
-          {
-            "id": "2b2421b560ab5af3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Versionshinweise 1.14.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b2421b560ab5af3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "index.md",
     "NPC/Götter/Pariah.md",
