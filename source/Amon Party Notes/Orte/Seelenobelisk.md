@@ -1,1 +1,1 @@
-- War einst ein Portal zum Tor der Seelen
+- War eins ein Portal zum Tor der Seelen
