@@ -3,4 +3,4 @@
 	- Raum [[Valerias]] - Zeit [[Pesmuth]]
 	- Licht [[Salis]] - Dunkelheit [[Tevris]] 
 	- Wachstum [[Vicera]] - Verfall [[Shakuru]]
-	- Leere - Essenz/Magie
+	- Leere [[Vrada der Leere]] - Essenz/Magie [[Vrada der Essenz]]
