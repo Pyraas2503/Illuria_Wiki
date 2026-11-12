@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Götter/Vrada/Vrada der Essenz.md",
+                "file": "NPC/Götter/Vrada/Vrada der Leere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vrada der Essenz"
+              "title": "Vrada der Leere"
             }
           }
         ]
@@ -175,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d09fbc9976e1888",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "NPC/Götter/Vrada/Leeren Vrada.md",
     "NPC/Götter/Vrada/Vrada der Essenz.md",
+    "NPC/Götter/Vrada/Vrada der Leere.md",
     "NPC/Götter/Vrada/Shakuru.md",
     "NPC/Götter/Vrada/_Info.md",
     "NPC/Götter/Vrada/Vicera.md",
