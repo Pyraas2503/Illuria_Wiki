@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Agashar/Atraxa.md",
+                "file": "NPC/Agashar/Satrex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atraxa"
+              "title": "Satrex"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "0d09fbc9976e1888",
   "lastOpenFiles": [
+    "NPC/Agashar/Atraxa.md",
     "NPC/Agashar/_Info.md",
     "Orte/Seelenobelisk.md",
     "NPC/Michael Virican.md",
@@ -191,7 +192,6 @@
     "NPC/Agashar/Vurukar.md",
     "NPC/Agashar/Sesorath.md",
     "NPC/Agashar/Satrex.md",
-    "NPC/Agashar/Atraxa.md",
     "index.md",
     "Vrada.md",
     "NPC/Götter/Vrada/Unbenannt",
