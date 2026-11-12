@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Götter/Vrada/Salis.md",
+                "file": "NPC/Götter/Vrada/Tevris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salis"
+              "title": "Tevris"
             }
           }
         ]
@@ -177,13 +177,13 @@
   },
   "active": "0d09fbc9976e1888",
   "lastOpenFiles": [
+    "NPC/Götter/Vrada/Salis.md",
     "NPC/Michael Virican.md",
     "NPC/Götter/Pariah.md",
     "NPC/Götter/Vrada/Vicera.md",
     "NPC/Götter/Vrada/Valerias.md",
     "NPC/Götter/Vrada/Tevris.md",
     "NPC/Götter/Vrada/Shakuru.md",
-    "NPC/Götter/Vrada/Salis.md",
     "NPC/Götter/Vrada/Pesmuth.md",
     "NPC/Götter/Vrada/_Info.md",
     "NPC/Agashar/Vurukar.md",
