@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Agashar/Satrex.md",
+                "file": "NPC/Agashar/Sesorath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Satrex"
+              "title": "Sesorath"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "0d09fbc9976e1888",
   "lastOpenFiles": [
+    "NPC/Agashar/Satrex.md",
     "NPC/Agashar/Atraxa.md",
     "NPC/Agashar/_Info.md",
     "Orte/Seelenobelisk.md",
@@ -191,7 +192,6 @@
     "NPC/Götter/Vrada/_Info.md",
     "NPC/Agashar/Vurukar.md",
     "NPC/Agashar/Sesorath.md",
-    "NPC/Agashar/Satrex.md",
     "index.md",
     "Vrada.md",
     "NPC/Götter/Vrada/Unbenannt",
