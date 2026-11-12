@@ -1,0 +1,3 @@
+- Vrada der Dunkelheit und des Todes
+- Wurde nach dem Krieg der Götter hinter dem Seelentor versiegelt
+- Sein "Vrada-Stein" wurde vermutlich mit ihm versiegelt

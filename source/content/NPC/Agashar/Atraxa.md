@@ -5,3 +5,4 @@
 	- Als zweites wurde Maalus auserwählt
 		- Maalus Erinnerung an das erste Zusammentreffen wurde manipuliert
 - Dient unter Sesorath
+- Ist actually [[Michael Virican]], der sich in die Reihen der Agashar geschlichen hat

@@ -1,0 +1,3 @@
+- Vrada des Lichts und des Lebens(?)
+- Im Moment im Sternenmeer
+- Ihr "Vrada-Stein" ist vermutlich bei ihr

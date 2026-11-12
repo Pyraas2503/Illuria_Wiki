@@ -1,23 +1,25 @@
 - Kompletter Name Satrex Khorux
+- Wurde aus der Dunkelheit Tefris' mit dem Göttercatalysten (evtl. mit dem Stein des Leeren Vrada?) erschaffen
+- Sollte als Waffe im Kampf gegen die Vrada dienen
 - Uralt, einst Diener Tevris
 - Psychopath der am Töten Freude hatte, wurde dafür gerügt
-- Tevris für Tiamat verraten, Tempel ausgelöscht und seine Schattenklinge in den Brunnen geworfen (Zu Dayas meinte er, er hat seine Seele verkauft. Stimmt das und was bedeutet das?)
+- Hat Tevris für Tiamat verraten, einen Tempel ausgelöscht und seine Schattenklinge in den Brunnen geworfen 
 - Wurde zum Agashar und übernahm einen teil des Fluch, dadurch wurde aus Freude am Töten eine unkontrollierbare Sucht
-- Frage an Kaz: Wie sehr gehört ihm seine eigene Seele, gehört sie durch Aufsteigen automatisch der Gottheit?
-- war in der Hölle eingesperrt und hat dort Seelen gefoltert?
-- hat den Aspekt der Täuschung getöten und wollte den Aspekt Tiamat vorenthalten, dann hat ihn Atraxa aber verprifffen und Tiamat erhielt den Aspekt
-- das Obsidianartefakt wurde erschaffen von Tiamat(?) ggf. aus dem Aspekt der Täuschung
-- war als Agashar Satrex bei Dayas unter dem Namen Krushnah ein Teil der Avamyras (warum hat Tiamat ihm erlaub die Hölle zu verlassen? und warum hat er dort niemanden ermordet? war er als Spion dort?)
-- verließ die Avamyras vor dem Deshadrak
-- Wurde beim Deshadrak von Atraxa im Namen Tiamats bestraft und seiner Teuflischen Seite beraubt (warum würde Tiamat ihn bestrafen, töten sollte beim Deshadrak nützlich sein?)
-- Dann kehrt er geschwächt zu den Avamyras zurück, will etwas von Dayas aber Dayas will das er den Plan unterstützt (eventuell hat Satrex gesnitched?)
-- dann bekommt er seinen teuflischen Teil zurück
-- Er greift Exavius an
-- er greift Iraferis an
-- Er plant wie man eigene Ebene erschaffen kann (will er ein Pareia werden?)
-- soll sich für Sezorath ins Moor der toten Merieden begeben
-- in dem Wächterbaum im Moor taucht das Obsidianartefakt auf
-- Begegnet als Satrex auf einem Schiff in Schwarzforst Atraxa (und Xeno) mit einer Schatulle (hat laut Atraxa unnötiges Chaos hinterlassen
-- Skithirix leidet in Guraddur wo er etwas bewacht
-- lässt Xeno mit dem Obsidianartefakt aspekte von Sardia suchen
+- Hat den Aspekt der Täuschung getöten und wollte den Aspekt Tiamat vorenthalten, wurde aber von Atraxa verraten und Tiamat erhielt den Aspekt
+- War als Agashar Satrex bei Dayas unter dem Namen Krushnah ein Teil der Avamyras 
+- Verließ die Avamyras vor dem Deshadrak
+- Verriet Darjas' Plan, das Schattenreich von den Pariah zu trennen, an eben jene
+- Wurde beim Deshadrak von Atraxa im Namen Tiamats bestraft und seiner Teuflischen Seite beraubt 
+- Plant seinen eigenen Aufstieg zu einer Gottheit
+	- Sucht dafür einen Weg, eine eigene Ebene zu erschaffen und so Seelen zu speichern
+	- Versucht an den Aspekt des Wissens zu kommen, um seinen Plan zu verfollständigen
+- Hat seine Seele in drei Teile gespaltet
+	- Den Agashar Satrex
+	- Den "sterblichen" Rolan
+	- Den schwarzen Drachen Skithryx
+- Er hat Skithryx den Fluch der Begierde von Tiamat übertragen, dieser leidet anscheinend darunter
+- Kann durch ein Ritual Kraft von seinem unsterblichen Körper aus der Hölle in seinen sterblichen Körper übertragen
+- Begegnet als Satrex auf einem Schiff in Schwarzforst Atraxa (und Xeno) mit einer Schatulle 
+- lässt Xeno mit dem Obsidianartefakt Aspekte von Sardia suchen
 - spricht mit Vasokar in der Hölle
+- Seine komplette Seele ist vermutlich nur mit einer Waffe zu töten, die von Tefris erschaffen wurde, oder zumindestens in einer Weise Kraft von Tefris in sich trägt

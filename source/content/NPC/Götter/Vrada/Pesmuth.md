@@ -1,0 +1,2 @@
+- Vrada der Zeit
+- Sein "Vrada-Stein" ist vermutlich bei ihm

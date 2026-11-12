@@ -1,4 +1,4 @@
-Agashar sind Sterbliche, die von Tiamat zu ihren höchsten Dienern wurden. Jeder dieser Diener hat eine der Sünden von Tiamat auf sich genommen, um ihren Qualen zu mindern. Außerdem ist jeder Agashar einer Farbe zugeordnet. 
+Agashar sind Sterbliche, die von Tiamat zu ihren höchsten Dienern wurden. Jeder dieser Diener hat eine der Sünden von Tiamat auf sich genommen, um ihren Qualen zu mindern. Außerdem ist jeder Agashar einer Farbe zugeordnet. [[Barakus]] gilt als der Anführer der Agasha. 
 
 Grün: [[Atraxa]] (Hochmut)
 Blau: [[Sesorath]] (Habgier)

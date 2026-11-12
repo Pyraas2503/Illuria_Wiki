@@ -1,0 +1,3 @@
+- Vrada der Natur und des Lebens
+- Hat [[Shakuru]] nach seiner Verwundung in den Abyss gebracht und hält ihn dort ruhig
+- Ihr "Vrada-Stein" ist bei ihr im Abyss

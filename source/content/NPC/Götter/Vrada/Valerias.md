@@ -1,0 +1,5 @@
+- Vrada des Raums und der Erschaffung
+- Sein Avatar wurde von uns im Vulkan unter der Edelstein-Insel erweckt
+- Sein "Vrada-Stein" liegt in einem riesigen Drachen unter der Edelstein-Insel
+- Sein Avatar wurde nach der Erweckung von den Pariah gefunden und er ist freiwillig mit ihnen mitgegangen
+	- Er hat einen Drachen vor Seleva zurück gelassen, der ihn theoretisch jederzeit erreichen kann

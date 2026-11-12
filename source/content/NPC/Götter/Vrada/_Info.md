@@ -1,6 +1,6 @@
 - Alte Götter von Illuria
 - Ziehen ihre Kraft aus Konzepten
 	- Raum [[Valerias]] - Zeit [[Pesmuth]]
-	- Licht - Dunkelheit [[Tevris]] 
+	- Licht [[Salis]] - Dunkelheit [[Tevris]] 
 	- Wachstum [[Vicera]] - Verfall [[Shakuru]]
 	- Leere - Essenz/Magie
