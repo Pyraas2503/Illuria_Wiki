@@ -1,0 +1,3 @@
+- Vrada der Essenz und Magie
+- Wurde vom Vrada der Leere getötet
+- Der "Vrada-Stein" wurde nach dem Tot vermutlich von [[Valerias]] an sich genommen

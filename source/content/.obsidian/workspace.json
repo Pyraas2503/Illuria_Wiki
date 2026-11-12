@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Götter/Vrada/Leeren Vrada.md",
+                "file": "NPC/Götter/Vrada/Vrada der Essenz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leeren Vrada"
+              "title": "Vrada der Essenz"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "0d09fbc9976e1888",
   "lastOpenFiles": [
-    "NPC/Götter/Vrada/Shakuru.md",
     "NPC/Götter/Vrada/Leeren Vrada.md",
+    "NPC/Götter/Vrada/Vrada der Essenz.md",
+    "NPC/Götter/Vrada/Shakuru.md",
     "NPC/Götter/Vrada/_Info.md",
     "NPC/Götter/Vrada/Vicera.md",
     "NPC/Götter/Vrada/Tevris.md",
