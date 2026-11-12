@@ -1,0 +1,4 @@
+- Vrada der Leere 
+- Tötete den Vrada der Essenz/Magie und wurde daraufhin von [[Valerias]] verbannt
+- Sein "Vrada-Stein" wurde vor seiner Verbannung von Valerias an sich genommen
+- Es wird angenommen, dass die Zavorai aus der Leere entstanden sind, weil das Gegenstück zu  seinem Komzept fehlt (Vrada der Essenz/Magie)
